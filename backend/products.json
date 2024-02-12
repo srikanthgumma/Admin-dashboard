@@ -1,0 +1,45 @@
+
+[ 
+	{ 
+		"id": 1, 
+		"name": "Gadget", 
+		"description": "Electronic", 
+		"price": 9.99, 
+		"image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154500/download-(1).jfif"
+	}, 
+	{ 
+		"id": 2, 
+		"name": " Smart Watch", 
+		"description": "Electronic", 
+		"price": 19.99, 
+		"image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+	},
+    { 
+		"id": 3, 
+		"name": "Gadget", 
+		"description": "Electronic", 
+		"price": 9.99, 
+		"image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154500/download-(1).jfif"
+	}, 
+	{ 
+		"id": 4, 
+		"name": " Smart Watch", 
+		"description": "Electronic", 
+		"price": 19.99, 
+		"image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+	},
+    { 
+		"id": 5, 
+		"name": "Gadget", 
+		"description": "Electronic", 
+		"price": 9.99, 
+		"image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154500/download-(1).jfif"
+	}, 
+	{ 
+		"id": 6, 
+		"name": " Smart Watch", 
+		"description": "Electronic", 
+		"price": 19.99, 
+		"image": "https://media.geeksforgeeks.org/wp-content/uploads/20230728154740/download-(2).jfif"
+	}
+]
